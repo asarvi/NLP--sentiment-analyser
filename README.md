@@ -1,2 +1,1 @@
-# NLP--sentiment-analyser
-sentiment analyser 
+# unsupervised-Sentiment-analyser
